@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Erbaaka
-- 👀 I’m interested in Coding especially Web Development
-- 🌱 I’m currently learning HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development, Data Science, and Cyber Security
+- 🌱 I’m currently learning Python & Javascript
 
 <!---
 Erbaaka/Erbaaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
